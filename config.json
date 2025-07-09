@@ -1,0 +1,28 @@
+{
+  "telegram": {
+    "bot_token": "8116318094:AAE5cO2UUkHO4dXgAmTcGed7OWZvJl9lPKQ",
+    "chat_id": "-4800412307"
+  },
+  "iq_option": {
+    "email": "zryyh.br@gmail.com",
+    "password": "Raridadef750#",
+    "practice_mode": true
+  },
+  "pairs": [
+    "EURUSD-OTC",
+    "GBPUSD-OTC",
+    "USDJPY-OTC"
+  ],
+  "gale_levels": [
+    "G0",
+    "G1"
+  ],
+  "settings": {
+    "rsi_period": 14,
+    "rsi_oversold": 25,
+    "rsi_overbought": 75,
+    "ma_period": 20,
+    "signal_cooldown": 60,
+    "expiration_minutes": 1
+  }
+}

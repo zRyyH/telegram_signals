@@ -1,0 +1,4 @@
+iqoptionapi @ git+https://github.com/iqoptionapi/iqoptionapi.git@8a903cc094a74af1ed935a56a2d6b5a9ed3319d7
+telebot==0.0.5
+websocket-client==0.56.0
+websockets==13.1
