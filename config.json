@@ -1,11 +1,11 @@
 {
   "telegram": {
-    "bot_token": "8116318094:AAE5cO2UUkHO4dXgAmTcGed7OWZvJl9lPKQ",
-    "chat_id": "-4800412307"
+    "bot_token": "bot_token",
+    "chat_id": "chat_id"
   },
   "iq_option": {
-    "email": "zryyh.br@gmail.com",
-    "password": "Raridadef750#",
+    "email": "email",
+    "password": "password",
     "practice_mode": true
   },
   "pairs": [
