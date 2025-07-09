@@ -19,6 +19,6 @@ Este bot monitora pares de opções binárias na IQ Option, gera sinais com base
 ## 📦 Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
-cd seu-repo
+git clone https://github.com/zRyyH/telegram_signals/edit/main/README.md
+cd telegram_signals
 pip install -r requirements.txt
